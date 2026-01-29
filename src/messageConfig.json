@@ -1,0 +1,17 @@
+{
+  "embedColorIncolor": "313338",
+  "embedColorSuccess": "16c60c",
+  "embedColorWarning": "FFCC4D",
+  "embedColorError": "f03a17",
+  "embedErrorMessage": "`❌` Une erreur s'est produite !",
+  "commandDevOnly": "`❌` Cette commande ne peut être exécutée que par les développeurs.",
+  "commandTestMode": "`❌` Ceci est en développement et ne peut pas être exécuté sur ce serveur.",
+  "commandPremiumOnly": "`❌` Cette commande ne peut être exécutée que par les utilisateurs premium.",
+  "userNoPermissions": "`❌` Tu ne dispose pas de suffisamment d'autorisations pour exécuter cette commande.",
+  "botNoPermissions": "`❌` Je n'ai pas suffisamment d'autorisations pour exécuter cette commande.",
+  "hasHigherRolePosition": "`❌` Cette personne a un rôle plus élevé que toi ou a le même rôle que toi.",
+  "unableToInteractWithYourself": "`❌` Tu ne peux pas le faire sur toi-même idiot.",
+  "cannotUseButton": "`❌` Tu ne peux pas utiliser ce bouton.",
+  "cannotUseSelect": "`❌` Tu ne peux pas utiliser ce menu.",
+  "footerText": "GT Esport"
+}
